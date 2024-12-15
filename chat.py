@@ -2,7 +2,7 @@ import os
 from groq import Client
 
 # Initialize the Groq client
-client = Client(api_key="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")
+    client = Client(api_key="YOUR_API_KEY")
 
 # Define the chat model to be used (replace with a valid model name)
 MODEL_NAME = "llama3-70b-8192"  
