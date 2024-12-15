@@ -1,7 +1,7 @@
 import requests
 
 SUMMARIZE_API_URL = "https://api-inference.huggingface.co/models/facebook/bart-large-cnn"
-HEADERS = {"Authorization": "Bearer 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"}
+HEADERS = {"Authorization": "Bearer hf_API_KEY"}
 
 def summarize_text(text):
     payload = {"inputs": text}
