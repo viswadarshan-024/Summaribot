@@ -4,6 +4,8 @@
 
 This project integrates document summarization and an interactive chatbot powered by Streamlit, Groq API, and the Hugging Face (HF) Inference API. The application allows users to upload documents, generate summaries, and ask questions based on the document content.
 
+Try out : https://summaribot-myapp.streamlit.app/
+
 ---
 
 ## **Features**
