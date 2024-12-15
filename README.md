@@ -51,20 +51,6 @@ Start the application:
   ```
 
 ---
-## Use the Features
-
-### Summarize Document
-- Upload your document (PDF or Word format).
-- The app generates a concise summary for you.
-
-### Chat
-- Ask questions related to the summarized document.
-- Responses will appear in real-time, including code snippets if applicable.
-
-### History
-- View or manage your past interactions with the chatbot.
-
----
 
 ## Acknowledgments
 - **Groq API:** Powering the chatbot with conversational AI.
